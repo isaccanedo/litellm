@@ -41,7 +41,7 @@
 
 ---
 
-## What is LiteLLM
+### What is LiteLLM
 
 LiteLLM is an open source AI Gateway that gives you a single, unified interface to call 100+ LLM providers — OpenAI, Anthropic, Gemini, Bedrock, Azure, and more — using the OpenAI format.
 
